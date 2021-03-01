@@ -3,11 +3,11 @@ Api to post new movie, get movie with id and get movie stats
 
 ## Endpoints
 
-###(post) /Metadata 
+(post) /Metadata 
 
 ```json
 {
-#"movieId": 3,
+"movieId": 3,
 "title": "Elysium",
 "language": "EN",
 "duration": "1:49:00",
@@ -15,6 +15,6 @@ Api to post new movie, get movie with id and get movie stats
 }
 ```
 
-###(get) /Metadata/{id}
+(get) /Metadata/{id}
 
-###(get) /Movies/stats
+(get) /Movies/stats
